@@ -1,6 +1,8 @@
 scripts you can run on npm
 to run these script use "npm run [script]" inside the terminal while opening the root dir of this project
 
+you need to install all the packages under dependencies and dev-dependencies in package.json first
+
 lint: to run the eslint package on the code to check quality
 prettier: to run prettier package on the code and modify it to the specified settings
 jasmine: to run the jasmine package for testing
