@@ -1,0 +1,13 @@
+scripts you can run on npm
+to run these script use "npm run [script]" inside the terminal while opening the root dir of this project
+
+lint: to run the eslint package on the code to check quality
+prettier: to run prettier package on the code and modify it to the specified settings
+jasmine: to run the jasmine package for testing
+build: to compile the typescript files in the "src" dir and the result will appear in the "dist" directory
+test: combining both "build" and "jasmine" scripts
+start: to start the server
+
+visit the endpoint images to access the api for the resizing -the server works on port 3500s-
+
+link => localhost:3500/images
